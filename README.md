@@ -10,6 +10,7 @@ Exploratory Data Analysis:
 Summary statistics, distribution plots, and correlation analyses are conducted to explore the dataset. Visualizations such as bar graphs were used to illustrate key findings.
 
 Key Findings:
+
 1)Number of sales every month
 
 2)Number of sales every year
