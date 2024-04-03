@@ -1,15 +1,15 @@
-Executive Summary
+Executive Summary:
 The objective of this report is to conduct an exploratory analysis of all purchases made for an online retail company based in UK during a eight month period.
 Key findings include insights into sales performance analysis,country with most and least customers, and sales average of each product. 
 Recommendations are provided for optimizing marketing strategies and improving customer retention.
 
-Data Description
+Data Description:
 kaggle dataset was used : https://www.kaggle.com/datasets/vijayuv/onlineretail
 
-Exploratory Data Analysis
+Exploratory Data Analysis:
 Summary statistics, distribution plots, and correlation analyses are conducted to explore the dataset. Visualizations such as bar graphs were used to illustrate key findings.
 
-Key Findings
+Key Findings:
 1)Number of sales every month
 
 2)Number of sales every year
